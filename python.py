@@ -26,7 +26,7 @@ print(tuple2)
 # print(tuple2[:])
 # print(tuple2[0:-8:-2])
 
-print("sanskar")
+
 
 
 
